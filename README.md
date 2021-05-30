@@ -27,4 +27,6 @@
 - ⚡ Fun fact: I just LOVE jazz music; especially from the 50s and 60s era. My favourite singer is Frank Sinatra.
 
 ## My Stats (the real reason why you're here)
-[Bheki's github stats](https://github-readme-stats.vercel.app/api?username=bheki-maenetja)
+![Bheki's github stats](https://github-readme-stats.vercel.app/api?username=bheki-maenetja)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bheki-maenetja&langs_count=10&layout=compact)](https://github.com/bheki-maenetja/github-readme-stats)
