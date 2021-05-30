@@ -21,7 +21,10 @@
 
 ### A bit more about me
 
-- 🔭 I’m currently working on an SQL text editor built with Tkinter
-- 🌱 I’m currently learning Computer Science at [Loughborough University](https://www.lboro.ac.uk/)
-- 📫 Feel free to find out more about me at [bheki-maenetja.com](http://bheki-maenetja.com)
-- ⚡ Fun fact: I'm an avid Formula 1 fan
+- 🔭 I’m currently working on an SQL text editor built with Tkinter.
+- 🌱 I’m currently learning Computer Science at [Loughborough University](https://www.lboro.ac.uk/).
+- 📫 Feel free to find out more about me at [bheki-maenetja.com](http://bheki-maenetja.com).
+- ⚡ Fun fact: I just LOVE jazz music; especially from the 50s and 60s era. My favourite singer is Frank Sinatra.
+
+## My Stats (the real reason why you're here)
+[Bheki's github stats](https://github-readme-stats.vercel.app/api?username=bheki-maenetja)
