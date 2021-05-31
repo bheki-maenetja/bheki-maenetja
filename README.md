@@ -29,5 +29,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bheki-maenetja&langs_count=10&layout=compact&hide=mathematica,hlsl,shaderlab,c%23)](https://github.com/bheki-maenetja/github-readme-stats)
 &nbsp;&nbsp;
 ![Bheki's github stats](https://github-readme-stats.vercel.app/api?username=bheki-maenetja&show_icons=true)
+&nbsp;
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=bheki-maenetja&color=blue&style=flat-square&label=Profile+Views" alt="views" /> 
+</p>
 
 
