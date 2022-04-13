@@ -22,7 +22,7 @@
 ### A bit more about me
 
 - 🌱 I’m currently studying Computer Science at [Loughborough University](https://www.lboro.ac.uk/).
-- 📫 Feel free to find out more about me at [bheki-maenetja.com](http://bheki-maenetja.com).
+- 📫 Feel free to find out more about me at [bheki-maenetja.github.io](http://bheki-maenetja.github.io/).
 - ⚡ Fun fact: I just LOVE jazz music; especially from the 50s and 60s era. My favourite singer is Frank Sinatra.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bheki-maenetja&langs_count=10&layout=compact&hide=mathematica,hlsl,shaderlab,c%23)](https://github.com/bheki-maenetja/github-readme-stats)
