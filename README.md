@@ -16,7 +16,7 @@
 <h1 align="center">Hello there! My name is Bheki. 👋</h1>
 
 <p align="center">
-  I am a computer science undergraduate and an aspiring software developer. As an avid technology enthusiast I love to solve problems imaginatively and leverage my creative skills to build the weird and wonderful. I'm deeply passionate about the application software industry and looking to expand my horizons, each and every day, through both educational and vocational opportunities.
+  I am a computer science student and an aspiring software developer. As an avid technology enthusiast I love to solve problems imaginatively and leverage my creative skills to build the weird and wonderful. I'm deeply passionate about the application software industry and looking to expand my horizons, each and every day, through both educational and vocational opportunities.
 </p>
 
 ### A bit more about me
