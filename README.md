@@ -6,22 +6,18 @@
   <a href="mailto:bhekimaenetja@gmail.com">
     <img src="https://simpleicons.org/icons/gmail.svg" height="50px" width="50px"></img>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/bheki_maenetja">
-    <img src="https://simpleicons.org/icons/twitter.svg" height="50px" width="50px"></img>
-  </a>
 </p>
 
 
 <h1 align="center">Hello there! My name is Bheki. 👋</h1>
 
 <p align="center">
-  I am a computer science student and an aspiring software developer. As an avid technology enthusiast I love to solve problems imaginatively and leverage my creative skills to build the weird and wonderful. I'm deeply passionate about the application software industry and looking to expand my horizons, each and every day, through both educational and vocational opportunities.
+I am a computer science graduate and an aspiring AI researcher. As an avid technology enthusiast I love to solve problems imaginatively and leverage my creative skills to build the weird and wonderful. Passionate about the world of AI, data and software, I continually seek to expand my horizons through both educational and vocational opportunities.
 </p>
 
 ### A bit more about me
 
-- 🌱 I’m currently studying Computer Science at [Loughborough University](https://www.lboro.ac.uk/).
+- 🌱 I’m currently studying Computer Science at [Queen Mary University of London](https://qmul.ac.uk/).
 - 📫 Feel free to find out more about me at [bheki-maenetja.github.io](http://bheki-maenetja.github.io/).
 - ⚡ Fun fact: I just LOVE jazz music; especially from the 50s and 60s era. My favourite singer is Frank Sinatra.
 
