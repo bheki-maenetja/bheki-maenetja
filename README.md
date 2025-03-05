@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bheki-maenetja-350a95192/">
-    <img src="https://github.com/user-attachments/assets/70154a0f-dd71-4886-aac0-b42f89767c6a" height="50px" width="50px" ></img>
+    <img src="https://github.com/user-attachments/assets/7b1e0769-fea7-44e2-948a-e446a92dc1ef" height="50px" width="50px" ></img>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:bhekimaenetja@gmail.com">
-    <img src="https://simpleicons.org/icons/gmail.svg" height="50px" width="50px"></img>
+    <img src="https://github.com/user-attachments/assets/4098461b-3b08-4de3-86ea-801eaca087fd" height="50px" width="50px"></img>
   </a>
 </p>
 
