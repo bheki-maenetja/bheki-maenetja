@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bheki-maenetja-350a95192/">
-    <img src="https://github.com/user-attachments/assets/7b1e0769-fea7-44e2-948a-e446a92dc1ef" height="50px" width="50px" ></img>
+    <img src="https://github.com/user-attachments/assets/288c6863-7fbd-4b77-b1eb-a235d79b5836" height="50px" width="50px" ></img>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:bhekimaenetja@gmail.com">
