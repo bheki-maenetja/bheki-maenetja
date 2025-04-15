@@ -17,7 +17,7 @@ I am a computer science graduate and an aspiring AI researcher. As an avid techn
 
 ### A bit more about me
 
-- 🌱 I’m currently studying Artificial Intelligence at [Queen Mary University of London](https://qmul.ac.uk/).
+- 🌱 I’m an Artificial Intelligence master's graduate from [Queen Mary University of London](https://qmul.ac.uk/).
 - 📫 Feel free to find out more about me at [bheki-maenetja.github.io](http://bheki-maenetja.github.io/).
 - ⚡ Fun fact: I just LOVE jazz music; especially from the 50s and 60s era. My favourite singer is Frank Sinatra.
 
